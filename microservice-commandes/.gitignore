@@ -1,5 +1,9 @@
-target/
-!.mvn/wrapper/maven-wrapper.jar
+### VOCALTECH - begin ###
+/.gradle
+gradle
+gradlew.bat
+settings.gradle
+### VOCALTECH - end ###
 
 ### STS ###
 .apt_generated
